@@ -19,7 +19,12 @@ It enables organizations to:
   https://fintrackr-wuyf.onrender.com  
 
 - 📄 **Swagger UI**  
-  https://fintrackr-wuyf.onrender.com/swagger-ui/index.html  
+  https://fintrackr-wuyf.onrender.com/swagger-ui/index.html
+
+  👉 Use Swagger UI to:
+- Authenticate user
+- Create transactions
+- View analytics
 
 ---
 
