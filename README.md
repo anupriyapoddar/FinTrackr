@@ -23,9 +23,9 @@ It enables organizations to:
 
 👉 Use Swagger UI to:
 
-- ❌ Scattered financial records  
-- ❌ Lack of centralized tracking  
-- ❌ No real-time insights  
+- Authenticate user  
+- Create transactions  
+- View analytics  
 
 ---
 
@@ -33,9 +33,9 @@ It enables organizations to:
 
 Organizations often struggle with:
 
-- Authenticate user  
-- Create transactions  
-- View analytics  
+ ❌ Scattered financial records  
+ ❌ Lack of centralized tracking  
+ ❌ No real-time insights  
 
 ### 👉 Solution
 Centralizing financial data → Processing → Generating actionable insights
