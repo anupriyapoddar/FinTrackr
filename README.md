@@ -74,20 +74,7 @@ Register → OTP → Verify → Login → JWT Token → Access APIs
 
 ## 🧱 Architecture Overview
 
-Client
-↓
-JWT Authentication
-↓
-Spring Security (RBAC)
-↓
-Controller
-↓
-Service
-↓
-Repository
-↓
-MongoDB Atlas
-
+Client -> JWT -> Authentication -> Spring Security (RBAC) -> Controller -> Service -> Repository -> MongoDB Atlas
 
 ---
 
