@@ -21,10 +21,11 @@ It enables organizations to:
 - 📄 **Swagger UI**  
   https://fintrackr-wuyf.onrender.com/swagger-ui/index.html
 
-  👉 Use Swagger UI to:
-- Authenticate user
-- Create transactions
-- View analytics
+👉 Use Swagger UI to:
+
+- ❌ Scattered financial records  
+- ❌ Lack of centralized tracking  
+- ❌ No real-time insights  
 
 ---
 
@@ -32,9 +33,9 @@ It enables organizations to:
 
 Organizations often struggle with:
 
-- ❌ Scattered financial records  
-- ❌ Lack of centralized tracking  
-- ❌ No real-time insights  
+- Authenticate user  
+- Create transactions  
+- View analytics  
 
 ### 👉 Solution
 Centralizing financial data → Processing → Generating actionable insights
